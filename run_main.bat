@@ -1,0 +1,1 @@
+python C:/Users/hasee/Desktop/hw2/main.py --source C:/Users/hasee/Desktop/hw2/source.csv --query C:/Users/hasee/Desktop/hw2/query.txt --output C:/Users/hasee/Desktop/hw2/output.txt
